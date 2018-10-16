@@ -1,0 +1,95 @@
+h1 {
+  text-align: center;
+}
+
+.jumbotron {
+  color: blue;
+  font-size: 80px;
+  text-align: center;
+  text-shadow: 4px 1px 1px red;
+}
+
+
+.init-1 {
+  display: none;
+}
+
+.init-2 {
+  display: none;
+}
+
+.init-3 {
+  display: none;
+}
+
+.init-4 {
+  display: none;
+}
+
+.init-5 {
+  display: none;
+}
+
+.init-6 {
+  display: none;
+}
+
+.init-7 {
+  display: none;
+}
+
+.init-8 {
+  display: none;
+}
+
+.init-9 {
+  display: none;
+}
+
+.init-10 {
+  display: none;
+}
+
+.init-11 {
+  display: none;
+}
+
+.init-12 {
+  display: none;
+}
+
+.init-13 {
+  display: none;
+}
+
+.init-14 {
+  display: none;
+}
+
+.init-15 {
+  display: none;
+}
+
+.init-16 {
+  display: none;
+}
+
+.init-17 {
+  display: none;
+}
+
+.init-18 {
+  display: none;
+}
+
+.init-19 {
+  display: none;
+}
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
