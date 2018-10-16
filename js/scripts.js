@@ -77,7 +77,12 @@ $(document).ready(function() {
 
   });
 
-
+// $(document).ready(function() {
+//   $(".panel").click(function() {
+//     $(this).children(".clickable1").toggle();
+//     $(this).children(".init-1").toggle();
+//   });
+// });
 
 
    $("h2").click(function() {
